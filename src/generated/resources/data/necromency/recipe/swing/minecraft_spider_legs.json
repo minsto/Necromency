@@ -1,0 +1,50 @@
+{
+  "type": "necromency:swing_shaped",
+  "empty": [
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false
+  ],
+  "ingredients": [
+    "necromency:skin",
+    "minecraft:bone",
+    "minecraft:bone",
+    "necromency:skin",
+    "necromency:skin",
+    "necromency:muscle",
+    "necromency:muscle",
+    "necromency:skin",
+    "necromency:skin",
+    "minecraft:spider_eye",
+    "minecraft:spider_eye",
+    "necromency:skin",
+    "necromency:skin",
+    "minecraft:bone",
+    "minecraft:bone",
+    "necromency:skin"
+  ],
+  "result": {
+    "components": {
+      "minecraft:custom_data": {
+        "MobId": "minecraft:spider",
+        "Part": "legs"
+      },
+      "minecraft:item_model": "necromency:bodyparts/spider/legs"
+    },
+    "count": 1,
+    "id": "necromency:body_part"
+  }
+}

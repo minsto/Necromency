@@ -1,0 +1,15 @@
+{
+  "parent": "necromency:altar",
+  "display": {
+    "icon": { "id": "necromency:jar_of_soul" },
+    "title": { "translate": "advancements.necromency.spawn_minion.title" },
+    "description": { "translate": "advancements.necromency.spawn_minion.description" },
+    "frame": "challenge"
+  },
+  "criteria": {
+    "spawned": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [["spawned"]]
+}

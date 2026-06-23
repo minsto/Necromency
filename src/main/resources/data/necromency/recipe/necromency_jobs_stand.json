@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    "#minecraft:wool",
+    "#minecraft:wool",
+    "#minecraft:wool",
+    "necromency:blood_bucket"
+  ],
+  "result": {
+    "id": "necromency:necromency_jobs_stand",
+    "count": 1
+  }
+}

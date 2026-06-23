@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    "minecraft:bucket",
+    "necromency:jar_of_blood",
+    "necromency:jar_of_blood",
+    "necromency:jar_of_blood",
+    "necromency:jar_of_blood",
+    "necromency:jar_of_blood",
+    "necromency:jar_of_blood",
+    "necromency:jar_of_blood",
+    "necromency:jar_of_blood"
+  ],
+  "result": {
+    "id": "necromency:blood_bucket",
+    "count": 1
+  }
+}

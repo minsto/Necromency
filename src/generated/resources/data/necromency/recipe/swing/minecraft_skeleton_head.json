@@ -1,0 +1,49 @@
+{
+  "type": "necromency:swing_shaped",
+  "empty": [
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    true,
+    true,
+    true,
+    true
+  ],
+  "ingredients": [
+    "necromency:skin",
+    "necromency:skin",
+    "necromency:skin",
+    "necromency:skin",
+    "necromency:skin",
+    "necromency:brain",
+    "minecraft:bone",
+    "necromency:skin",
+    "necromency:skin",
+    "minecraft:spider_eye",
+    "minecraft:spider_eye",
+    "necromency:skin",
+    "minecraft:barrier",
+    "minecraft:barrier",
+    "minecraft:barrier",
+    "minecraft:barrier"
+  ],
+  "result": {
+    "components": {
+      "minecraft:custom_data": {
+        "MobId": "minecraft:skeleton",
+        "Part": "head"
+      }
+    },
+    "count": 1,
+    "id": "necromency:body_part"
+  }
+}

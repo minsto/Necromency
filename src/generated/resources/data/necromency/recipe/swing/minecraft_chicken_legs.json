@@ -1,0 +1,43 @@
+{
+  "type": "necromency:swing_shaped",
+  "empty": [
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false
+  ],
+  "ingredients": [
+    "necromency:skin",
+    "minecraft:bone",
+    "minecraft:bone",
+    "necromency:skin",
+    "necromency:skin",
+    "necromency:muscle",
+    "necromency:muscle",
+    "necromency:skin",
+    "necromency:skin",
+    "minecraft:chicken",
+    "minecraft:chicken",
+    "necromency:skin",
+    "necromency:skin",
+    "minecraft:bone",
+    "minecraft:bone",
+    "necromency:skin"
+  ],
+  "result": {
+    "count": 1,
+    "id": "necromency:chiken_leg"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "necromency:item/bodyparts/turtle/arm"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "type": "necromency:swing_shaped",
+  "empty": [
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    true,
+    true,
+    true,
+    true
+  ],
+  "ingredients": [
+    "necromency:skin",
+    "necromency:skin",
+    "necromency:skin",
+    "necromency:skin",
+    "minecraft:bone",
+    "necromency:muscle",
+    "minecraft:book",
+    "minecraft:bone",
+    "necromency:skin",
+    "necromency:skin",
+    "necromency:skin",
+    "necromency:skin",
+    "minecraft:barrier",
+    "minecraft:barrier",
+    "minecraft:barrier",
+    "minecraft:barrier"
+  ],
+  "result": {
+    "components": {
+      "minecraft:custom_data": {
+        "MobId": "minecraft:villager",
+        "Part": "arm_left"
+      },
+      "minecraft:item_model": "necromency:bodyparts/villager/arm"
+    },
+    "count": 1,
+    "id": "necromency:body_part"
+  }
+}

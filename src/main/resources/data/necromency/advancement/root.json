@@ -1,0 +1,14 @@
+{
+  "display": {
+    "icon": { "id": "necromency:necronomicon" },
+    "title": { "translate": "advancements.necromency.root.title" },
+    "description": { "translate": "advancements.necromency.root.description" },
+    "background": "minecraft:textures/block/soul_sand.png",
+    "frame": "task",
+    "show_toast": false,
+    "announce_to_chat": false
+  },
+  "criteria": {
+    "tick": { "trigger": "minecraft:tick" }
+  }
+}

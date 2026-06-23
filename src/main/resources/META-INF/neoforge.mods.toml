@@ -1,0 +1,23 @@
+license="All Rights Reserved"
+
+[[mods]]
+modId="necromency"
+version="1.0.0"
+displayName="Necromency"
+authors= "Mickdev,AtomicStryker,sirolf2009,Mr_boness,Fabiulu,TheBlackPixel"
+description="This mod is all about Necromancy, also known as the art of reanimation. Create your own Minions and infuse them with life"
+credits= "sirolf2009, Mr_boness,Fabiulu and TheBlackPixel"
+logoFile="logo.png"
+[[dependencies.necromency]]
+modId="neoforge"
+type="required"
+versionRange="[21,)"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.necromency]]
+modId="minecraft"
+type="required"
+versionRange="[1.21.1,)"
+ordering="NONE"
+side="BOTH"

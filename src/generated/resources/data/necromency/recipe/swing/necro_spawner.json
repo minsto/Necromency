@@ -1,0 +1,43 @@
+{
+  "type": "necromency:swing_shaped",
+  "empty": [
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true
+  ],
+  "ingredients": [
+    "minecraft:rotten_flesh",
+    "minecraft:rotten_flesh",
+    "minecraft:rotten_flesh",
+    "minecraft:rotten_flesh",
+    "minecraft:rotten_flesh",
+    "minecraft:ghast_tear",
+    "minecraft:ghast_tear",
+    "necromency:jar_of_soul",
+    "necromency:heart",
+    "minecraft:barrier",
+    "minecraft:barrier",
+    "minecraft:barrier",
+    "minecraft:barrier",
+    "minecraft:barrier",
+    "minecraft:barrier",
+    "minecraft:barrier"
+  ],
+  "result": {
+    "count": 1,
+    "id": "necromency:necro_spawner"
+  }
+}

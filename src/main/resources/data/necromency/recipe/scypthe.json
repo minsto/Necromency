@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "IH",
+    " S",
+    " B"
+  ],
+  "key": {
+    "I": "minecraft:obsidian",
+    "H": "minecraft:iron_hoe",
+    "S": "minecraft:stick",
+    "B": "necromency:jar_of_blood"
+  },
+  "result": {
+    "id": "necromency:scypthe",
+    "count": 1
+  }
+}

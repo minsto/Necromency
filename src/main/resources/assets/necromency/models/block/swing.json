@@ -1,0 +1,9 @@
+{
+  "parent": "necromency:custom/sewing",
+  "textures": {
+    "all": "necromency:block/sewingtexture",
+    "particle": "necromency:block/sewingtexture",
+    "1": "necromency:block/sewingtexture"
+  },
+  "render_type": "solid"
+}

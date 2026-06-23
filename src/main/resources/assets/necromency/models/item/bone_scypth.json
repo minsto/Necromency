@@ -1,0 +1,8 @@
+{
+  "parent": "necromency:custom/bone_scythe",
+  "textures": {
+    "0": "necromency:item/bone_scythe",
+    "missing": "minecraft:block/stripped_dark_oak_log",
+    "particle": "necromency:item/scythe"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "type": "necromency:swing_shaped",
+  "empty": [
+    true,
+    false,
+    false,
+    true,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false
+  ],
+  "ingredients": [
+    "minecraft:barrier",
+    "necromency:skin",
+    "necromency:skin",
+    "minecraft:barrier",
+    "minecraft:bone",
+    "necromency:heart",
+    "necromency:lungs",
+    "minecraft:bone",
+    "necromency:skin",
+    "minecraft:turtle_scute",
+    "minecraft:turtle_scute",
+    "necromency:skin",
+    "minecraft:bone",
+    "necromency:skin",
+    "necromency:skin",
+    "minecraft:bone"
+  ],
+  "result": {
+    "components": {
+      "minecraft:custom_data": {
+        "MobId": "minecraft:turtle",
+        "Part": "body"
+      },
+      "minecraft:item_model": "necromency:bodyparts/turtle/torso"
+    },
+    "count": 1,
+    "id": "necromency:body_part"
+  }
+}

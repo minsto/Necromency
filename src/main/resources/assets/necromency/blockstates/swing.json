@@ -1,0 +1,57 @@
+{
+  "variants": {
+    "face=floor,facing=north": {
+      "model": "necromency:block/swing"
+    },
+    "face=floor,facing=east": {
+      "model": "necromency:block/swing",
+      "y": 90
+    },
+    "face=floor,facing=south": {
+      "model": "necromency:block/swing",
+      "y": 180
+    },
+    "face=floor,facing=west": {
+      "model": "necromency:block/swing",
+      "y": 270
+    },
+    "face=wall,facing=north": {
+      "model": "necromency:block/swing",
+      "x": 90
+    },
+    "face=wall,facing=east": {
+      "model": "necromency:block/swing",
+      "x": 90,
+      "y": 90
+    },
+    "face=wall,facing=south": {
+      "model": "necromency:block/swing",
+      "x": 90,
+      "y": 180
+    },
+    "face=wall,facing=west": {
+      "model": "necromency:block/swing",
+      "x": 90,
+      "y": 270
+    },
+    "face=ceiling,facing=north": {
+      "model": "necromency:block/swing",
+      "x": 180,
+      "y": 180
+    },
+    "face=ceiling,facing=east": {
+      "model": "necromency:block/swing",
+      "x": 180,
+      "y": 270
+    },
+    "face=ceiling,facing=south": {
+      "model": "necromency:block/swing",
+      "x": 180
+    },
+    "face=ceiling,facing=west": {
+      "model": "necromency:block/swing",
+      "x": 180,
+      "y": 90
+    }
+  }
+}

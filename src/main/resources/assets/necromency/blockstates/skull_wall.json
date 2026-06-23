@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=south": { "model": "necromency:block/skull_wall" },
+    "facing=north": { "model": "necromency:block/skull_wall", "y": 180 },
+    "facing=west":  { "model": "necromency:block/skull_wall", "y": 90 },
+    "facing=east":  { "model": "necromency:block/skull_wall", "y": 270 }
+  }
+}

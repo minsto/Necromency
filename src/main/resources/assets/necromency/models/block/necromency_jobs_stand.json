@@ -1,0 +1,9 @@
+{
+  "parent": "necromency:custom/necrovillagerjobs",
+  "textures": {
+    "all": "necromency:block/necrovillagejobs",
+    "particle": "necromency:block/necrovillagejobs",
+    "0": "necromency:block/necrovillagejobs"
+  },
+  "render_type": "solid"
+}

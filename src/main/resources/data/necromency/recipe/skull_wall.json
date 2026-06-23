@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "OOO",
+    "SSS",
+    "OOO"
+  ],
+  "key": {
+    "O": "minecraft:obsidian",
+    "S": "minecraft:skeleton_skull"
+  },
+  "result": {
+    "id": "necromency:skull_wall",
+    "count": 1
+  }
+}

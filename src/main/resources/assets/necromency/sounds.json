@@ -1,0 +1,18 @@
+{
+  "nightcrawler.howl": {
+    "subtitle": "subtitles.necromency.nightcrawler.howl",
+    "sounds": [{ "name": "entity.ravager.roar", "type": "event" }]
+  },
+  "nightcrawler.scream": {
+    "subtitle": "subtitles.necromency.nightcrawler.scream",
+    "sounds": [{ "name": "entity.phantom.ambient", "type": "event" }]
+  },
+  "spawn": {
+    "subtitle": "subtitles.necromency.spawn",
+    "sounds": [{ "name": "entity.evoker.cast_spell", "type": "event" }]
+  },
+  "tear": {
+    "subtitle": "subtitles.necromency.tear",
+    "sounds": [{ "name": "entity.ghast.scream", "type": "event" }]
+  }
+}

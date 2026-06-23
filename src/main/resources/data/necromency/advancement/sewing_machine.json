@@ -1,0 +1,16 @@
+{
+  "parent": "necromency:necronomicon",
+  "display": {
+    "icon": { "id": "necromency:swing" },
+    "title": { "translate": "advancements.necromency.sewing_machine.title" },
+    "description": { "translate": "advancements.necromency.sewing_machine.description" },
+    "frame": "task"
+  },
+  "criteria": {
+    "crafted": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": { "items": [{ "items": "necromency:swing" }] }
+    }
+  },
+  "requirements": [["crafted"]]
+}

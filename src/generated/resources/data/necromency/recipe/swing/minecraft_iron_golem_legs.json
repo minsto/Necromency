@@ -1,0 +1,50 @@
+{
+  "type": "necromency:swing_shaped",
+  "empty": [
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false
+  ],
+  "ingredients": [
+    "necromency:skin",
+    "minecraft:bone",
+    "minecraft:bone",
+    "necromency:skin",
+    "necromency:skin",
+    "necromency:muscle",
+    "necromency:muscle",
+    "necromency:skin",
+    "necromency:skin",
+    "minecraft:iron_block",
+    "minecraft:iron_block",
+    "necromency:skin",
+    "necromency:skin",
+    "minecraft:bone",
+    "minecraft:bone",
+    "necromency:skin"
+  ],
+  "result": {
+    "components": {
+      "minecraft:custom_data": {
+        "MobId": "minecraft:iron_golem",
+        "Part": "legs"
+      },
+      "minecraft:item_model": "necromency:bodyparts/iron_golem/legs"
+    },
+    "count": 1,
+    "id": "necromency:body_part"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "necromency:block/altar"
+    },
+    "facing=east": {
+      "model": "necromency:block/altar",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "necromency:block/altar",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "necromency:block/altar",
+      "y": 270
+    }
+  }
+}

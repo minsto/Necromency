@@ -1,0 +1,50 @@
+{
+  "type": "necromency:swing_shaped",
+  "empty": [
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false
+  ],
+  "ingredients": [
+    "necromency:skin",
+    "minecraft:bone",
+    "minecraft:bone",
+    "necromency:skin",
+    "necromency:skin",
+    "necromency:muscle",
+    "necromency:muscle",
+    "necromency:skin",
+    "necromency:skin",
+    "minecraft:armadillo_scute",
+    "minecraft:armadillo_scute",
+    "necromency:skin",
+    "necromency:skin",
+    "minecraft:bone",
+    "minecraft:bone",
+    "necromency:skin"
+  ],
+  "result": {
+    "components": {
+      "minecraft:custom_data": {
+        "MobId": "minecraft:armadillo",
+        "Part": "legs"
+      },
+      "minecraft:item_model": "necromency:bodyparts/armadillo/legs"
+    },
+    "count": 1,
+    "id": "necromency:body_part"
+  }
+}

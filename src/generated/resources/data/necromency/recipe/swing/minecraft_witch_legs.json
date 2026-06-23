@@ -1,0 +1,50 @@
+{
+  "type": "necromency:swing_shaped",
+  "empty": [
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false
+  ],
+  "ingredients": [
+    "necromency:skin",
+    "minecraft:bone",
+    "minecraft:bone",
+    "necromency:skin",
+    "necromency:skin",
+    "necromency:muscle",
+    "necromency:muscle",
+    "necromency:skin",
+    "necromency:skin",
+    "minecraft:poisonous_potato",
+    "minecraft:poisonous_potato",
+    "necromency:skin",
+    "necromency:skin",
+    "minecraft:bone",
+    "minecraft:bone",
+    "necromency:skin"
+  ],
+  "result": {
+    "components": {
+      "minecraft:custom_data": {
+        "MobId": "minecraft:witch",
+        "Part": "legs"
+      },
+      "minecraft:item_model": "necromency:bodyparts/witch/legs"
+    },
+    "count": 1,
+    "id": "necromency:body_part"
+  }
+}

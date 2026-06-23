@@ -1,0 +1,16 @@
+{
+  "parent": "necromency:root",
+  "display": {
+    "icon": { "id": "necromency:necronomicon" },
+    "title": { "translate": "advancements.necromency.necronomicon.title" },
+    "description": { "translate": "advancements.necromency.necronomicon.description" },
+    "frame": "task"
+  },
+  "criteria": {
+    "crafted": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": { "items": [{ "items": "necromency:necronomicon" }] }
+    }
+  },
+  "requirements": [["crafted"]]
+}

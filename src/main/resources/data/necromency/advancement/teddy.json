@@ -1,0 +1,20 @@
+{
+  "parent": "necromency:sewing_machine",
+  "display": {
+    "icon": { "id": "necromency:teddy_spawn_egg" },
+    "title": { "translate": "advancements.necromency.teddy.title" },
+    "description": { "translate": "advancements.necromency.teddy.description" },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "criteria": {
+    "teddy_egg": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [{ "items": "necromency:teddy_spawn_egg" }]
+      }
+    }
+  },
+  "requirements": [["teddy_egg"]]
+}

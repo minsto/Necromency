@@ -1,0 +1,49 @@
+{
+  "type": "necromency:swing_shaped",
+  "empty": [
+    true,
+    false,
+    false,
+    true,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false
+  ],
+  "ingredients": [
+    "minecraft:barrier",
+    "necromency:skin",
+    "necromency:skin",
+    "minecraft:barrier",
+    "minecraft:bone",
+    "necromency:heart",
+    "necromency:lungs",
+    "minecraft:bone",
+    "necromency:skin",
+    "minecraft:chicken",
+    "minecraft:chicken",
+    "necromency:skin",
+    "minecraft:bone",
+    "necromency:skin",
+    "necromency:skin",
+    "minecraft:bone"
+  ],
+  "result": {
+    "components": {
+      "minecraft:custom_data": {
+        "MobId": "minecraft:chicken",
+        "Part": "body"
+      }
+    },
+    "count": 1,
+    "id": "necromency:chiken_body"
+  }
+}

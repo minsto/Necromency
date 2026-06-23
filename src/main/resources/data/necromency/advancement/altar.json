@@ -1,0 +1,16 @@
+{
+  "parent": "necromency:necronomicon",
+  "display": {
+    "icon": { "id": "necromency:altar" },
+    "title": { "translate": "advancements.necromency.altar.title" },
+    "description": { "translate": "advancements.necromency.altar.description" },
+    "frame": "goal"
+  },
+  "criteria": {
+    "placed": {
+      "trigger": "minecraft:placed_block",
+      "conditions": { "location": [{ "block": "necromency:altar" }] }
+    }
+  },
+  "requirements": [["placed"]]
+}

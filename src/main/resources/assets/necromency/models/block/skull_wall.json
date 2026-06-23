@@ -1,0 +1,21 @@
+{
+  "parent": "block/block",
+  "textures": {
+    "obsidian": "minecraft:block/obsidian",
+    "particle": "minecraft:block/obsidian"
+  },
+  "elements": [
+    {
+      "from": [0, 0, 0],
+      "to": [16, 16, 2],
+      "faces": {
+        "north": { "uv": [0, 0, 16, 16], "texture": "#obsidian" },
+        "south": { "uv": [0, 0, 16, 16], "texture": "#obsidian" },
+        "east":  { "uv": [0, 0, 2, 16], "texture": "#obsidian" },
+        "west":  { "uv": [0, 0, 2, 16], "texture": "#obsidian" },
+        "up":    { "uv": [0, 0, 16, 2], "texture": "#obsidian" },
+        "down":  { "uv": [0, 0, 16, 2], "texture": "#obsidian" }
+      }
+    }
+  ]
+}

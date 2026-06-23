@@ -1,0 +1,19 @@
+{
+  "model": {
+    "type": "minecraft:range_dispatch",
+    "property": "necromency:special_scythe",
+    "entries": [
+      {
+        "threshold": 0.5,
+        "model": {
+          "type": "minecraft:model",
+          "model": "necromency:item/scypthe_special"
+        }
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "necromency:item/bone_scypth"
+    }
+  }
+}

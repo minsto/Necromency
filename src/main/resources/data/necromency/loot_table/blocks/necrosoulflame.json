@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:block",
+  "random_sequence": "necromency:blocks/necrosoulflame",
+  "pools": [
+    {
+      "rolls": 1.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        },
+        {
+          "condition": "minecraft:inverted",
+          "term": {
+            "condition": "minecraft:location_check",
+            "offsetY": -1,
+            "predicate": {
+              "block": {
+                "blocks": "necromency:flametower"
+              }
+            }
+          }
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "necromency:necrosoulflame"
+        }
+      ]
+    }
+  ]
+}

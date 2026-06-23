@@ -1,0 +1,11 @@
+{
+  "parent": "necromency:custom/brainmaker",
+  "textures": {
+    "all": "necromency:block/animation",
+    "particle": "necromency:block/animation",
+    "0": "necromency:block/brainblockbases",
+    "1": "necromency:block/braine",
+    "2": "necromency:block/animation"
+  },
+  "render_type": "solid"
+}
