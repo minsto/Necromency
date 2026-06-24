@@ -1,6 +1,6 @@
 # Necromency
 Nocromency is mods on 1.7.10 by  atomicstrykergrumpy im porting to 1.21.x https://atomicstryker.github.io/
-Branche 1.21.10 is new version for neoforge 1,21.1
+Branche 1.21.10 is new version for neoforge 1,21.10
 ## Build / Compilation
 
 This mod is made for Minecraft NeoForge.
